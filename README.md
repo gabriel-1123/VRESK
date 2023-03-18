@@ -7,23 +7,23 @@ Features:
 
 Advanced adminsitrator tools:
 
-BAN (HWID)
-Whitelist
-Warns
-Warns (Discord) in-game
-Weather
-Time
-And more..
-
-Player features: 
-
-Money 
-Character-creator
-Car control with registration by License Plate
-And more...
-
-SQL Drivers:
-
+BAN (HWID)<br>
+Whitelist<br>
+Warns<br>
+Warns (Discord) in-game<br>
+Weather<br>
+Time<br>
+And more..<br>
+<br>
+Player features: <br>
+<br>
+Money <br>
+Character-creator<br>
+Car control with registration by License Plate<br>
+And more...<br>
+<br>
+SQL Drivers:<br>
+<br>
 Mongoose Driver made by externally-javascript <br>
 MySql Driver made by externally-javascript <br>
 <a href="https://github.com/overextended/oxmysql">MySql Driver by Oxmysql</a>
